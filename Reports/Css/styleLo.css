@@ -1,0 +1,73 @@
+body {
+    margin: auto;
+    height: 500px;
+    padding: 20px;
+}
+ 
+#header {
+    width: 700px;
+    color: maroon;
+    font-size: 32px;
+    padding: 10px 10px 10px 0px;
+    margin-bottom: 15px;
+    border-bottom: 1px solid green;
+}
+ 
+#footer {
+    border-top: 1px solid green;
+    margin-top: 20px;
+    color: #336699;
+    padding-top: 10px;    
+}
+form, .content {
+    width: 27%;
+    margin: 0px auto;
+    padding-left: 80px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border: 1px solid #000;
+    /* text-align: center; */
+    /* background: #531414; */
+    /* border-radius: 10px 10px 10px 10px; */
+    /* background-color: rgba(52, 73, 94, 0.7); */
+}
+.input-group {
+  margin: 10px 0px 10px 0px;
+}
+
+.input-group label {
+     display: block; 
+     margin: 3px; 
+/*    color: aliceblue;*/
+     padding: 6px; 
+}
+
+.input-group input {
+    /* height: 30px; */
+    width: 78%;
+    /* padding: 5px 10px; */
+    font-size: 15px;
+    /* border-radius: 5px; */
+    /* border: 1px solid gray; */
+    text-align: center;
+}
+
+.btn {
+    padding: 10px;
+    /* font-size: 15px; */
+    /* color: white; */
+    background: #1c5518;
+    border: none;
+    border-radius: 5px;
+    width: 94px;
+    /* margin-right: 325px; */
+    margin-top: 17px;
+    color: white;
+/*    margin-left: -180px;
+*/    height: 32px;
+}
+
+header {
+  margin:0 auto;
+  position:relative;
+}

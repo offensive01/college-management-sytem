@@ -1,0 +1,13 @@
+
+
+----------- Progress
+
+
+
+
+----------- Issues
+
+
+- Add Department  | PremiceMangala/Admin/Add/addDepartment.php
+					Incorrect integer value: '' for column `mangalaregistration`.`studentprogram`.`schoolprogramID` at row 1
+-					
